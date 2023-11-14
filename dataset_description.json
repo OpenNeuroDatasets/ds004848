@@ -1,0 +1,12 @@
+{
+    "Name": "Natural viewing reveals an extended network of brain regions involved in processing familiar faces that is disrupted in prosopagnosia",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Kira Noad",
+        "David Watson",
+        "Timothy Andrews"
+    ],
+    "HowToAcknowledge": "Noad, K., Watson, D.M., Andrews, T.J. (In review). Natural viewing reveals an extended network of regions for familiar faces that is disrupted in developmental prosopagnosia."
+}
