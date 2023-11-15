@@ -56,12 +56,16 @@ subjects also completed the CFMT.
 * `PI20` - 20-item prosopagnosia index, used as initial screening for
   developmental prosopagnosia. All developmental prosopagnosic participants
   comleted this.
+  
   > Reference: Shah et al. (2015), Royal Society Open Science, 2(150305), 1-6.
+
 
 * `CFMT` - Cambridge Face Memory Test, used as secondary screening for
   developmental prosopagnosia. All developmentral prosopagnosic participants
   and approximately half of the control participants completed this.
+  
   > Reference: Duchaine & Nakayama (2006), Neuropsychologia, 44(4), 576-585.
+
 
 * `Game of Thrones Quiz` - We developed this quiz to assess familiarity with
   the Game of Thrones television series. All participants completed this quiz.
@@ -81,3 +85,4 @@ subjects also completed the CFMT.
 ## Notes
 * sub-DP15 is missing category localiser and fieldmap scans due to time
   constraints during the scanning session.
+
