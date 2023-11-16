@@ -1,4 +1,4 @@
-# Game of Thrones
+# Game of Thrones - A naturalistic viewing dataset
 
 ## Overview
 This dataset contains fMRI movie-watching and category localiser data in 28
@@ -85,3 +85,4 @@ subjects also completed the CFMT.
 ## Notes
 * sub-DP15 is missing category localiser and fieldmap scans due to time
   constraints during the scanning session.
+
